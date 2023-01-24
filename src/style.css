@@ -1,0 +1,63 @@
+.body{
+    background-color: rgba(14, 107, 168, 1);
+}
+.barColor{
+    background-color: rgba(10, 36, 114, 1);
+}
+
+.todayWeatherBG{
+    background-color: rgba(166, 225, 250, 1) ; 
+}
+
+.weeksWeatherBG{
+    background-color: aliceblue;
+    border-radius: 11px;
+}
+
+.headerText{
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.headerTextReg{
+    color: white;
+    font-size: 48px;
+}
+
+.bigTemp{
+    font-size: 150px;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+
+.dayConditionText{
+    font-size: 64px;
+    font-weight: 400;
+
+}
+
+.highLowTempText{
+    font-size: 48px;
+    font-weight: 400;
+}
+
+.forecastHeaderText{
+    font-size: 36px;
+    font-weight: 700;
+}
+
+.dayText{
+    font-size: 36px;
+    font-weight: 400;
+}
+
+.tempText{
+    font-size: 128px;
+    font-weight: 400;
+}
+
+.bottomTempText{
+    font-size: 96px;
+    font-weight: 400;
+}
